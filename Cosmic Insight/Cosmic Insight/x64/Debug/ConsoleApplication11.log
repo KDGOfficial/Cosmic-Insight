@@ -1,0 +1,5 @@
+﻿  ConsoleApplication11.cpp
+D:\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(69,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication11.vcxproj -> D:\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
